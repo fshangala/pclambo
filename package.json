@@ -1,0 +1,17 @@
+{
+  "name": "pclambo",
+  "version": "1.0.0",
+  "description": "PC Lambo software",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "pclambo"
+  ],
+  "author": "fshangala",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
+}
